@@ -1,0 +1,199 @@
+*{
+    list-style: none !important;
+    text-decoration: none !important;
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto' sans-serif;
+    /* font-family: 'Syne'; */
+    font-weight: 500;
+}
+
+
+
+/* ................................  https://themes.muffingroup.com/be/leasing2/   CSS   ......................... */
+/* header */
+.bele-hov:hover{
+    background-color: #16182d !important;
+    color: white !important;
+}
+.fw{
+    font-weight: 500;
+}
+.sticky{
+    position: fixed !important;
+    z-index: 999;
+}
+.menu{
+    /* width: 100%; */
+    background-color: #ffff !important;
+    position: absolute;
+    left: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: none;
+}
+.aaaa li:hover .menu{
+        display: block !important;
+}.w20{
+    width: 20%;
+}
+.figure{
+	transform: scale(1);
+	transition: .3s ease-in-out;
+}
+.figure:hover{
+	transform: scale(1.1);
+}
+
+/* footer */
+.bg-dark-blue{
+    background-color: #16182d !important;
+}
+.footer:hover{
+    color: white !important;
+    text-decoration: underline !important;
+}
+
+/* Home page  */
+.bele-img{
+    background-image: url(https://themes.muffingroup.com/be/leasing2/wp-content/uploads/2022/12/beleasing2-section-bg1.webp);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.pd{
+    padding: 25% 0% 5% 0%;
+}
+.bele-img-1{
+    background-image: url(https://themes.muffingroup.com/be/leasing2/wp-content/uploads/2023/02/beleasing2-section-bg2.webp);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding: 10% 0 0 0;
+}
+.bele-img-2{
+    background-image: url(https://themes.muffingroup.com/be/leasing2/wp-content/uploads/2023/03/beleasing2-section-bg4.webp);
+    width: 100%;
+    background-size: cover;
+    padding: 10% 0 0 0;
+}
+.word{
+    letter-spacing  : 2px;
+}
+.color{
+    color: #202448 !important;
+}
+.bg-light{
+    background-color: #ece5e5c7 !important;
+}
+.bg-white{
+    background-color: white !important;
+}
+.color-1{
+    color: #16182d !important;
+}
+.hov-up:hover{
+    transform:translateY(-9px) !important;
+    transition: all 0.3s ease-in-out;
+}
+.bg-color{
+    background-color: #16182d !important;
+    width: 200px;
+}
+.b-color{
+    background-color: #16182d !important;
+}
+.b-color:hover{
+    background-color: #202248 !important;
+}
+.fs-65{
+    font-size: 65px;
+}
+
+/* ................ Aboutbele css */
+.bg-light-pink{
+    background-color: rgba(243, 207, 213, 0.534) !important;
+}
+
+/* BMW CAR................................... */
+.w-20{
+    width: calc(20% - 28px);
+}
+.pos-t{
+    top: 295px;
+    position: absolute;
+}
+.link-pos{
+    top: 15px;
+    right: 22px;
+    position: absolute;
+    display: none;
+}
+.hov-link:hover .link-pos {
+    display: block !important;
+    transition: all 0.5s ease-in-out;
+}
+.count{
+    position: absolute;
+    bottom: -100px;
+}
+.bele-img-3{
+    position: absolute;
+    top: 264px;
+    width: 200px;
+    padding: 15px 5px;
+    /* border-radius: 30% */
+
+}
+
+/* ................................... https://demo.themefisher.com/megakit/  ................................ */
+
+/*                                        HARSHIT                            */
+/* header........... */
+.text{
+    color: #5f2a5d !important;
+}
+.call-btn{
+    background-color: #ffa5846b !important;
+    color: #5f2a5d !important;
+    font-weight: 600 !important;
+    padding: 8px 15px !important;
+    /* display: inline-block !important; */
+}
+.call-btn:hover{
+    background-color: #ffa584 !important;
+    transition: all 0.5s ease-in-out;
+}
+.bg-orange{
+    background-color: #e6c9be88 !important;
+}
+.text-orange{
+    color: #ffa584 !important;
+}
+.dimon-img{
+    background-image: url(https://themes.muffingroup.com/be/language4/wp-content/uploads/2022/04/language4-section-bg4.svg);
+    width: 100%;
+    background-position: center;
+}
+
+
+
+/* ................................................................................................................... */
+.point:hover{
+    cursor: pointer;
+    color: #003366;
+}
+
+/* - - - - - - -- - - -- - - - - -  Dummy API PRODUCT - - - - - - - - - - - - - */
+
+.box{
+    box-shadow: 0px 0px 3px black;
+    display: inline-block;
+    width: 50%;
+}
+.img-dumy img{
+    width: 100%;
+    /* height: 300px; */
+    overflow: hidden;
+}
+
