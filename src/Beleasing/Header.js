@@ -17,12 +17,12 @@ const Header = () => {
       <Navbar expand="lg" className="bg-body-tertiary p-0 align-items-center" >
         <Container className=''>
           <Navbar.Brand href="/"><img src="https://themes.muffingroup.com/be/leasing2/wp-content/uploads/2022/12/beleasing2.svg" alt="" /></Navbar.Brand>
-          <Navbar.Brand href="/" className='fs-6 ms-3 mb-0 word color oreder-'>LUXURY CARS FOR YOU</Navbar.Brand>
+          <Navbar.Brand href="/" className='fs-6 ms-3 mb-0 word color '>LUXURY CARS FOR YOU</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto"></Nav>
             <Nav className="">
-              <Nav.Link href="/" className=' p-md-4 bele-hov fw mt-2'>Home</Nav.Link>
+              <Nav.Link href="/" className=' p-md-4 bele-hov fw mt-2'>HOME</Nav.Link>
               <NavDropdown title="OFFER" id="basic-nav-dropdown" className=' p-md-4 bele-hov fw'>
                 <NavDropdown.Item href="/sedan">SEDAN</NavDropdown.Item>
                 <NavDropdown.Item href="/hatchback">HATCHBACK</NavDropdown.Item>
