@@ -39,7 +39,7 @@ const Home = () => {
       <Container fluid className=' bele-img mt-1'>
         <Row className=' m-0'>
           <div className="col-8 pd">
-            <h2 className=" text-white fs-md-1 fs-6 mb-md-5 mb-2">WE'LL FIND FOR YOU THE <br></br> BEST CAR FOR LEASING</h2>
+            <h2 className=" text-white fs-md-1 mb-md-5 mb-2">WE'LL FIND FOR YOU THE <br></br> BEST CAR FOR LEASING</h2>
             <Button href='/all-cars' variant="" className='b-color text-white rounded-0 border-0 ps-md-5 ps-3 pe-md-5 pe-3 pt-md-3 pt-2 pb-md-3 pb-2'>CHECK YOUR CAR <FaArrowRight className='ms-3' /></Button>{' '}
           </div>
           <div className="col-md-4 pd justify-content-end d-flex d-md-block d-none">
