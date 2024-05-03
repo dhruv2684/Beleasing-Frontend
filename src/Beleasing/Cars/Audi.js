@@ -32,7 +32,7 @@ const Audi = () => {
       </Container>
 
       {/*  TECHNICAL SPECIFICATIONS  */}
-      <Container fluid className='mt-5 pt-5 pb-5 bg-light'>
+      {/* <Container fluid className='mt-5 pt-5 pb-5 bg-light'>
         <Row className='gap-2'>
           <h3 className="">TECHNICAL SPECIFICATIONS</h3>
           <div className="w-20 ms-3  bg-white p-4">
@@ -71,7 +71,7 @@ const Audi = () => {
             </div>
           </div>
         </Row>
-      </Container>
+      </Container> */}
 
       {/* KEY SPECIFICATIONS OF BMW COMMODO IPSUM */}
       <Container fluid className='bg-light pt-5 pb-5'>
@@ -221,9 +221,9 @@ const Audi = () => {
             <img className='rounded-circle' src="https://themes.muffingroup.com/be/leasing2/wp-content/uploads/2023/02/beleasing2-details-pic1.webp" width="90%" alt="" />
           </div>
           <div className="col-10 text-white ps-4">
-            <h3 className="fs-2 mb-3">DISCOVER THE ADVANTAGES OF THIS CAR</h3>
+            <h3 className="fs-md-2 fs-6 mb-3">DISCOVER THE ADVANTAGES OF THIS CAR</h3>
             <p className='mb-2'>Call us and arrange a test drive</p>
-            <a className="text-white fs-2" href="tel:+61383766284">+61 (0) 3 8376 6284</a>
+            <a className="text-white fs-ṃd-2 fs-6" href="tel:+61383766284">+61 (0) 3 8376 6284</a>
           </div>
         </Row>
       </Container>

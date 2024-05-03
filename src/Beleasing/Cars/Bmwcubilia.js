@@ -32,7 +32,7 @@ const Bmwcubilia = () => {
       </Container>
 
       {/*  TECHNICAL SPECIFICATIONS  */}
-      <Container fluid className='mt-5 pt-5 pb-5 bg-light'>
+      {/* <Container fluid className='mt-5 pt-5 pb-5 bg-light'>
         <Row className='gap-2'>
           <h3 className="">TECHNICAL SPECIFICATIONS</h3>
           <div className="w-20 ms-3  bg-white p-4">
@@ -71,7 +71,7 @@ const Bmwcubilia = () => {
             </div>
           </div>
         </Row>
-      </Container>
+      </Container> */}
 
       {/* KEY SPECIFICATIONS OF BMW COMMODO IPSUM */}
       <Container fluid className='bg-light pt-5 pb-5'>
